@@ -5,7 +5,7 @@
     <DockerTargetOS>Windows</DockerTargetOS>
     <ProjectGuid>102b4328-0c83-4648-aa4b-7134bab00db2</ProjectGuid>
     <DockerLaunchBrowser>True</DockerLaunchBrowser>
-    <DockerServiceUrl>http://{ServiceIPAddress}/api/values</DockerServiceUrl>
+    <DockerServiceUrl>http://{ServiceIPAddress}/api/story</DockerServiceUrl>
     <DockerServiceName>sagasandlegends.web</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>
